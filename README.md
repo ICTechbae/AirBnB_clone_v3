@@ -155,7 +155,7 @@ No known bugs at this time.
 
 ## Authors
 Iwuoha Chioma Lynda - [Github](https://github.com/ICTECHBAE) / [Twitter](https://twitter.com/IwuohaLynda)  
-Ifechukwu Anyika - [Github](https://github.com/ifecalis) / [Twitter](https://twitter.com/
+Ifechukwu Anyika - [Github](https://github.com/ife-calis) / [Twitter](https://twitter.com/
 
 
 ## License
